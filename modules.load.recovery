@@ -1,0 +1,7 @@
+
+mmi_relay.ko
+sensors_class.ko
+touchscreen_mmi.ko
+mmi_annotate.ko
+mmi_info.ko
+nova_0flash_mmi.ko
